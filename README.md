@@ -1,10 +1,11 @@
 #系统环境变量自动化配置工具
 
 ##系统需求
-`Windows` + `.NET Framework 2.0`
+`Windows xp/7` + `.NET Framework 2.0`
+>因没有`Windows8`的机器,无法调试是哪里导致的`Windows8`下运行exe出错,故目前在`Windows8`下无法使用.
 
 ##安装方法:
-双击build.bat对源码进行编译, 双击编译后的exe文件, 会自动注册 `.env` 的扩展名.
+双击`build.bat`对源码进行编译, 双击编译后的exe文件, 会自动注册 `.env` 的扩展名.
 
 
 ##卸载方法:
